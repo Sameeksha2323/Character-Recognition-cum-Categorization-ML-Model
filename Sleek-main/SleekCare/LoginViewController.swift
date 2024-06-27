@@ -1,9 +1,4 @@
-//
-//  LoginViewController.swift
-//  SleekCare
-//
-//  Created by Nabeel on 03/03/24.
-//
+
 
 import Foundation
 import UIKit
