@@ -1,9 +1,4 @@
-//
-//  PrescriptionView.swift
-//  SleekCare
-//
-//  Created by Nabeel on 28/01/24.
-//
+
 
 import UIKit
 
