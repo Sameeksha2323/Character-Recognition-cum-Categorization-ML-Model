@@ -1,9 +1,3 @@
-//
-//  PrescriptionDataManager.swift
-//  SleekCare
-//
-//  Created by Nabeel on 13/04/24.
-//
 
 import Foundation
 
